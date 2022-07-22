@@ -221,6 +221,8 @@
     * [Lương nhân viên mua hàng](https://datastudio.google.com/reporting/ac3a13ff-119f-490f-88c1-abca79656c66/page/P4BqB)
     * [Báo cáo mua hàng](https://datastudio.google.com/reporting/e188207f-4b96-4ea5-ac6d-0eb4c3c5dde3/page/Yk0UC)
     * [Sai lệch cân nặng kiện hàng M2 và M6](https://datastudio.google.com/u/1/reporting/c6d61655-ef7a-4d17-abda-bfa76fa7e3df/page/bByeC)
+    * [ALI - BÁO CÁO MUA HÀNG](https://datastudio.google.com/reporting/e188207f-4b96-4ea5-ac6d-0eb4c3c5dde3/page/Yk0UC/edit)
+    * [Đơn mua đủ điều kiện TMĐT không được tích chọn](https://datastudio.google.com/u/0/reporting/51a8add5-c62a-4e84-b760-330a80bc2f1d/page/o5BqB/edit)
 * Kế toán - WORKSPACE:
    * [Baogam-KSCLDV- Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/1/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/o5BqB)
    * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/fec01857-856f-4c9e-8e16-552139aa7b32/page/P4BqB)
