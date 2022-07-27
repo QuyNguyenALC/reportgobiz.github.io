@@ -236,3 +236,5 @@
    * [Baogam - Vận hành - Total Cashflow in out](https://datastudio.google.com/u/0/reporting/37bd649c-f1ca-4b17-9d5c-fcc4566124b6/page/9JiqB)
    * [Web mới - Total Cashflow](https://datastudio.google.com/reporting/c2744be1-d748-46a0-99ab-83530d7f271c/page/UlXqB)
    * [Eorder/Orderhang/Baogamvn/123po - DỮ LIỆU KẾ TOÁN](https://datastudio.google.com/reporting/0b752ec5-6cb1-4d17-9647-4d9242ad4919/page/rYZqB)
+* M28 fulfilment - WORKSPACE:
+   * [Báo cáo xuất / nhập / lưu cho vận hành FFM](https://datastudio.google.com/u/0/reporting/a3a93c21-35fd-4b92-886c-3a4ddebccda7/page/p_k2l3iihwwc/edit)
