@@ -239,3 +239,4 @@
    * [ALI Kế toán - Giao dịch hoàn Alipay](https://datastudio.google.com/u/0/reporting/6849363c-afbc-4f34-8e2b-cda447332391/page/P4BqB/edit)
 * M28 fulfilment - WORKSPACE:
    * [Báo cáo xuất / nhập / lưu cho vận hành FFM](https://datastudio.google.com/u/0/reporting/a3a93c21-35fd-4b92-886c-3a4ddebccda7/page/p_k2l3iihwwc/edit)
+   * [FFVN - Dữ liệu đơn hàng](https://datastudio.google.com/u/0/reporting/7d851870-4b26-4ae2-99b0-09a7a6dfcbf5/page/P4BqB/edit)
