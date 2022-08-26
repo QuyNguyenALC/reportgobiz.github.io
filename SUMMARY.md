@@ -17,6 +17,7 @@
     * [Báo cáo chấm công Ubox](https://datastudio.google.com/u/0/reporting/6f0347e8-886d-44d8-b0ee-cdcdd450270e/page/P4BqB/edit)
 
 * ALI-KSCLDV WORKSPACE
+   * [KSCLDV- Báo cáo bao hàng tồn kho Quảng Châu](https://datastudio.google.com/u/0/reporting/3a6ef681-cd96-4a67-8618-4841663ddd85/page/P4BqB/edit)
    * [Ali - KSCLDV - Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/1/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/o5BqB)
    * [KSCLDV: Thông tin đơn hàng linedientu2](https://datastudio.google.com/u/1/reporting/6f4ff710-0860-4486-91ab-eb5f52ba53ae/page/gnarC)
    * [ALI - Kho- Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/1/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/o5BqB)
