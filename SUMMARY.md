@@ -29,7 +29,6 @@
    * [KSCLDV - Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/1/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
    * [KSCLDV: KIỂM SOÁT KIỆN HÀNG TRÙNG TRONG BAO](https://datastudio.google.com/u/1/reporting/f7796dfd-6346-4fd3-96af-e05f8fdc2718/page/Cl0iC)
    * [ALI- KSCLDV - Báo cáo tổng hợp các TK Tiền VND](https://datastudio.google.com/u/1/reporting/7a96c18a-68a3-4301-8b0e-f46a3b93ed15/page/o5BqB)
-   * [Ali-KSCLDV- Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/1/reporting/fec01857-856f-4c9e-8e16-552139aa7b32/page/o5BqB)
    * [Xuất nhập kho fulfillment](https://datastudio.google.com/u/1/reporting/ef9b463b-0923-4117-9c9b-b31fe2125850/page/o5BqB)
    * [Ali - Doanh số QH khách hàng](https://datastudio.google.com/u/1/reporting/9edb3ff7-377f-468d-b4e7-d91ccf1d79fe/page/o5BqB)
    * [Theo dõi Balance khách hàng](https://datastudio.google.com/u/1/reporting/d41480c3-268f-4157-8e40-b59450c009b6/page/o5BqB)
@@ -74,7 +73,6 @@
    * [Gobiz: Báo cáo kiện/đơn lưu kho](https://datastudio.google.com/u/1/reporting/b79e94cc-0ee4-44e8-8a02-1758abbf2382/page/o5BqB)
    * [Ali - Báo cáo kiểm soát việc upload thiếu giao dịch](https://datastudio.google.com/u/1/reporting/1a44274f-b2fd-4316-b7e7-bdf83af54742/page/o5BqB)
    * [KSCKDV-ALLPROJECT- Báo cáo nợ xấu theo kho đích](https://datastudio.google.com/u/1/reporting/acac2753-712a-4e6a-bf69-6137b643ed4b/page/tqZqB)
-
    * [KSCLDV - Kiểm soát thu phí VCQT](https://datastudio.google.com/u/0/reporting/cb295d93-7186-48a1-aad9-1539f253087d/page/iVIpC) 
    * [Dữ liệu tài chính M28](https://datastudio.google.com/u/0/reporting/da581a19-b6bd-40e9-92d8-5554048fcf90/page/cSQmC) 
    * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
@@ -93,7 +91,6 @@
    * [ALI-Báo cáo khiếu nại người bán](https://datastudio.google.com/u/0/reporting/16a0075d-bd6b-402e-9d48-47b30a7a76be/page/QAEqB)
    * [ALI-Doanh số QH khách hàng](https://datastudio.google.com/u/0/reporting/9edb3ff7-377f-468d-b4e7-d91ccf1d79fe/page/o5BqB)
    * [Baogam.com-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/b831eb56-58ef-4dfe-8587-1eb5a2b87c9d/page/S3ypB)
-   * [Baogam.com-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/P4BqB)
    * [Baogam.com-Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/336c52c5-68e4-4ac4-aec2-eac30d7be53f/page/QAEqB/edit)
    * [Orderhang/Eorder/Baogamvn/123po- Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/43d8d01f-855f-4376-a0ee-974f83f797fd/page/6H8nB)
    * [Eorder/Orderhang/Baogamvn/123po - Tài chính khách và thống kê Ending Balance theo tháng](https://datastudio.google.com/reporting/d751d180-fc6e-4d79-82af-0b7fdde3b9ae/page/vFMoB)
@@ -128,7 +125,7 @@
    * [KSCLDV - Kiểm soát phí Đóng Gỗ, Quấn Bọt Khí](https://datastudio.google.com/reporting/f6b92c5d-9468-47c0-99d9-4b1c55e26f98/page/P4BqB)
    * [KSCLDV kiểm soát kiện hàng có sale phụ trách](https://datastudio.google.com/u/0/reporting/9ce37b61-98c0-48a2-8679-4e06d728dcb8/page/o5BqB)
    * [Báo cáo kiện hàng kho Quảng Châu](https://datastudio.google.com/u/0/reporting/e20ed7c7-f000-4a00-a6cd-4eb7787654cb/page/P4BqB/edit)
-
+   * [Ali - Báo cáo kiểm soát đơn hàng ALL](https://datastudio.google.com/reporting/c0ec8bfb-a604-4ffa-996e-7e98aa9e2b33/page/P4BqB)
 * SHIPPO-CB WORKSPACE
     * [ShippoCB -Thống kê xử lý đơn thiếu thông tin kê khai](https://datastudio.google.com/u/1/reporting/f6db6ee0-78be-4629-ac51-d353a4210ed2/page/o5BqB)
     * [ShippoCB - Kho phân phối theo đơn mới nhất của user](https://datastudio.google.com/u/1/reporting/57bd4b28-09db-4beb-a30f-aa7e7bf6053a/page/o5BqB)
@@ -228,7 +225,6 @@
 * Kế toán - WORKSPACE:
    * [Baogam-KSCLDV- Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/1/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/o5BqB)
    * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/fec01857-856f-4c9e-8e16-552139aa7b32/page/P4BqB)
-   * [Web mới - BC Kiểm soát đơn hàng](https://datastudio.google.com/u/1/reporting/9caea7d5-df19-4bfb-b295-e101a7c84e68/page/o5BqB)
    * [Ali-Kscldv - Báo cáo kiện hàng](https://datastudio.google.com/u/1/reporting/663e41db-d232-490a-a74c-54a2d3fa519d/page/4iPqB)
    * [Web mới - Báo cáo kiện hàng](https://datastudio.google.com/u/1/reporting/db6f00ae-7d5b-4dd3-9a63-862dc0561217/page/o5BqB)
    * [Baogam-Kscldv - Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/336c52c5-68e4-4ac4-aec2-eac30d7be53f/page/4iPqB)
